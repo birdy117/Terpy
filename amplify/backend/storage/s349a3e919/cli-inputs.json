@@ -1,0 +1,14 @@
+{
+  "resourceName": "s349a3e919",
+  "policyUUID": "49a3e919",
+  "bucketName": "terpy5cd5c1c339824b3291db8712690d3b69",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
